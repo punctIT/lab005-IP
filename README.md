@@ -1,1 +1,11 @@
 "# lab005-IP" 
+
+echipa backend 2
+
+
+GHIORGHIEȘ P. ANDREI-CRISTIAN
+PALCU R. ȘTEFAN
+PLEȘCA D. GEORGE-CLAUDIU
+ȚIBULEAC D. TEODOR
+------ScrumMaster----------
+IVANICIUC C. TEODOR-ARSENIE
